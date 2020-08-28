@@ -14,7 +14,7 @@
 
 ## Screenshots
 
-<img scr="screenshots/main.png" alt="main" align="center"/>
+<img scr="/screenshots/main.png" alt="main" align="center"/>
 <img scr="screenshots/file.png" alt="file" align="center"/>
 <img scr="screenshots/open.png" alt="open" align="center"/>
 <img scr="screenshots/openedFile.png" alt="opened file" align="center"/>
