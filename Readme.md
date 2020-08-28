@@ -14,7 +14,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/main.png" alt="main"/>
+<img src="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/main.png" alt="main">
 <img src="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/file.png" alt="file" align="center"/>
 <img src="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/open.png" alt="open" align="center"/>
 <img src="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/openedFile.png" alt="opened file" align="center"/>
