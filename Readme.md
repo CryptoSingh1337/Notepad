@@ -14,12 +14,12 @@
 
 ## Screenshots
 
-<img scr="/screenshots/main.png" alt="main" align="center"/>
-<img scr="screenshots/file.png" alt="file" align="center"/>
-<img scr="screenshots/open.png" alt="open" align="center"/>
-<img scr="screenshots/openedFile.png" alt="opened file" align="center"/>
-<img scr="screenshots/saveas.png" alt="saveas" align="center"/>
-<img scr="screenshots/withoutwordwrap.png" alt="nowordwrap" align="center"/>
-<img scr="screenshots/withwordwrap.png" alt="wordwrap" align="center"/>
-<img scr="screenshots/font.png" alt="font" align="center"/>
-<img scr="screenshots/changedFont.png" alt="changedFont" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/main.png" alt="main" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/file.png" alt="file" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/open.png" alt="open" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/openedFile.png" alt="opened file" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/saveas.png" alt="saveas" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/withoutwordwrap.png" alt="nowordwrap" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/withwordwrap.png" alt="wordwrap" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/font.png" alt="font" align="center"/>
+<img scr="https://github.com/CryptoSingh1337/Notepad/tree/master/screenshots/changedFont.png" alt="changedFont" align="center"/>
