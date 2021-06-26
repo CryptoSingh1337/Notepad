@@ -18,8 +18,10 @@
 <img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/file.png" alt="file" align="center"/>
 <img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/open.png" alt="open" align="center"/>
 <img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/opendedFile.png" alt="opened file" align="center"/>
-<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/saveas.png" alt="saveas" align="center"/>
-<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/withoutwordwrap.png" alt="nowordwrap" align="center"/>
-<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/withwordwrap.png" alt="wordwrap" align="center"/>
-<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/font.png" alt="font" align="center"/>
-<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/changedfont.png" alt="changedFont" align="center"/>
+<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/fontoptions.png" alt="opened file" align="center"/>
+<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/format.png" alt="opened file" align="center"/>
+<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/screen.png" alt="saveas" align="center"/>
+<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/styling.png" alt="nowordwrap" align="center"/>
+<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/view.png" alt="wordwrap" align="center"/>
+<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/zoom.png" alt="font" align="center"/>
+<img src="https://github.com/CryptoSingh1337/Notepad/blob/master/screenshots/webversion.png" alt="font" align="center"/>
