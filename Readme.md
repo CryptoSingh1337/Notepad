@@ -12,79 +12,55 @@
     <li>Edit an existing file.
     <li>Select font family,color and size
     <li>Web Search Handle
-    <li>Feedback Form
-    <li>Common features-Find and Replace,Cut,Copy,Paste,Undo,Redo...
-    <li>Other features - Zoom In,Zoom Out,Screen Lock,Font Styling,Casing,Ordering...
+    <li>Feedback form
+    <li>Common features- Find and Replace,Cut,Copy,Paste,Undo,Redo...
+    <li>Other features- Screen Lock,Casing,Ordering...
     <li>WEB version of Notepad 2.0 (Newly added)
 </ul>
 
 ---
 
-## Screenshots
+## screenshots
 
 ### Main View
-<img src="Screenshots/main.png" alt="main" align="center" height="420"  width="900"/>
+<img src="screenshots/main.png" alt="main" align="center" height="420"  width="900"/>
 <br>
 
 ### File Options
-<img src="Screenshots/file.png" alt="file" align="center" height="420"  width="900"/>
+<img src="screenshots/file.png" alt="file options" align="center" height="420"  width="900"/>
 <br>
 
-### Open a File
-<img src="Screenshots/open.png" alt="open" align="center" height="420"  width="900"/>
+### Edit Options
+<img src="screenshots/edit.png" alt="edit options" align="center" height="420"  width="900"/>
 <br>
 
-### Opened a File
-<img src="Screenshots/openedfile.png" alt="opened file" align="center" height="420"  width="900"/>
+### Format Options
+<img src="screenshots/format.png" alt="format" align="center" height="420"  width="900"/>
 <br>
 
-### Save as Option
-<img src="Screenshots/saveas.png" alt="saveas" align="center" height="420"  width="900"/>
+### Format -> Font Options
+<img src="screenshots/fontoptions.png" alt="font" align="center" height="420"  width="900"/>
 <br>
 
-### No WordWrap
-<img src="Screenshots/nowordwrap.png" alt="nowordwrap" align="center" height="420"  width="900"/>
+### Format -> Styling Options
+<img src="screenshots/styling.png" alt="styling" align="center" height="420"  width="900"/>
 <br>
 
-### WordWrap
-<img src="Screenshots/wordwrap.png" alt="wordwrap" align="center" height="420"  width="900"/>
+### View Options
+<img src="screenshots/view.png" alt="view options" align="center" height="420"  width="900"/>
 <br>
 
-### Change Font
-<img src="Screenshots/font.png" alt="font" align="center" height="420"  width="900"/>
+### View -> Zoom Options
+<img src="screenshots/zoom.png" alt="zoom" align="center" height="420"  width="900"/>
 <br>
 
-### Changed Font (Times New Roman-->Arial)
-<img src="Screenshots/changedfont.png" alt="changedFont" align="center" height="420"  width="900"/>
+### View -> Screen Setup Options
+<img src="screenshots/screen.png" alt="screen setup" align="center" height="420"  width="900"/>
 
-### Change Color
-<img src="Screenshots/color.png" alt="color" align="center" height="420"  width="900"/>
-<br>
+### Help Options
+<img src="screenshots/help.png" alt="help options" align="center" height="420"  width="900"/>
 
-### Changed Color (Black-->Green)
-<img src="Screenshots/changedcolor.png" alt="changedColor" align="center" height="420"  width="900"/>
+---
 
-### Change Size
-<img src="Screenshots/size.png" alt="size" align="center" height="420"  width="900"/>
-<br>
-
-### Changed Size (16-->47)
-<img src="Screenshots/changedsize.png" alt="changedSize" align="center" height="420"  width="900"/>
-
-### Web Search Handle
-<img src="Screenshots/websearch.png" alt="webSearch" align="center" height="420"  width="900"/>
-
-### Font Styling (Bold,Itallic,Regular)
-<img src="Screenshots/fontoptions.png" alt="FontOptions" align="center" height="420"  width="900"/>
-
-### Feedback Form
-<img src="Screenshots/feedback.png" alt="Feedback" align="center" height="420"  width="900"/>
-
-### Feedback Data
-<img src="Screenshots/feedbackdata.png" alt="feedbackData" align="center" height="420"  width="900"/>
-
-### Find and Replace
-<img src="Screenshots/findAndReplace.png" alt="FindandReplace" align="center" height="420"  width="900"/>
-
-### Other New Features 
-<img src="Screenshots/newfeatures.png" alt="NewFeatures" align="center" height="420" width="900"/>
+# WEB VIEW
+<img src="screenshots/webversion.png" alt="web version" align="center" height="420"  width="900"/>
